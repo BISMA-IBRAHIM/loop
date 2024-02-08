@@ -8,7 +8,7 @@ if(year % 4==0){
 
 
 
-// leap year program 
+// leap year program with prompts
 
 var year = prompt("Enter Year And Check Its leap Or Not");
 if(year % 4==0){
